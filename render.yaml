@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: meeting-bot
+    env: docker
+    plan: free
